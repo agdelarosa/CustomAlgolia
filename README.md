@@ -1,0 +1,2 @@
+# CustomAlgolia
+Custom Module
